@@ -1,3 +1,12 @@
 body{
     background: #BDBDBD;
+    margin: 5%;
+}
+
+#secondHeading {
+    color: gray;
+}
+
+img {
+    border-radius: 50%;
 }
