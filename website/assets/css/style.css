@@ -15,9 +15,12 @@ body{
 }
 
 .portafolio {
-    margin: 5%;
+    margin-left: 10%;
+    margin-right: 10%;
+    
 }
-
 .contact {
-    margin: 5%;
+    margin-left:  10%;
+    margin-right: 10%;
+    margin-top: 5%;
 }
