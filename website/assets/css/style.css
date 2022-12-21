@@ -13,3 +13,28 @@ body{
 #rowFelipe {
     margin: 5%;
 }
+
+.hero-image {
+    background-image: url("../img/bg.jpg");
+    background-color: #cccccc;
+    height: 500px;
+    background-position: bottom;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+  }
+  
+  .hero-text {
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    
+    transform: translate(-50%, -50%);
+    color: black;
+    background-color: white;
+    width: 100%;
+    
+  }
+
+  
