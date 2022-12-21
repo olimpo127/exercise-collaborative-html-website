@@ -1,6 +1,5 @@
 body{
     background: #BDBDBD;
-    margin: 5%;
 }
 
 #secondHeading {
@@ -9,4 +8,8 @@ body{
 
 #imagen {
     border-radius: 50%;
+}
+
+#rowFelipe {
+    margin: 5%;
 }
