@@ -1,5 +1,5 @@
 body{
-    background: #BDBDBD;
+    background: white;
 }
 
 #secondHeading {
@@ -12,6 +12,7 @@ body{
 
 #rowFelipe {
     margin: 5%;
+    background-color: white;
 }
 
 .hero-image {
